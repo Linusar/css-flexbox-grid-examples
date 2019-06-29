@@ -1,0 +1,24 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "Admin de compras con SASS y Flexbox",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan De la torre @JuanDevWP",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
