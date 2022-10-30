@@ -19,6 +19,6 @@
     "last 2 versions"
   ],
   "dependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   }
 }
